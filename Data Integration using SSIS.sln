@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Data Integration using SSIS", "Data Integration using SSIS\Data Integration using SSIS.dtproj", "{CADF1A6C-A12B-4C7B-8A27-03575F42FBE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADF1A6C-A12B-4C7B-8A27-03575F42FBE4}.Development|Default.ActiveCfg = Development
+		{CADF1A6C-A12B-4C7B-8A27-03575F42FBE4}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B54289D-8E5E-4815-BAF2-0F2ED3F17AC9}
+	EndGlobalSection
+EndGlobal
